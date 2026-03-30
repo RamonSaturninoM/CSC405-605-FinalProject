@@ -4,7 +4,7 @@
 
 - Team members:
   - Ramon Saturnino
-
+  - Guy Ribando
 ## Project Title
 
 Predicting Synthetic Credit Risk with Financial and Behavioral Features
